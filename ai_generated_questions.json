@@ -1,0 +1,137 @@
+[
+  {
+    "question": "What is the next figure?",
+    "images": "ext_images\\page1_img1.jpeg",
+    "option_images": [
+      "ext_images\\page1_img2.png",
+      "ext_images\\page1_img3.png",
+      "ext_images\\page1_img4.png"
+    ]
+  },
+  {
+    "question": "What is the next figure?",
+    "images": "ext_images\\page1_img5.png",
+    "option_images": [
+      "ext_images\\page1_img6.png",
+      "ext_images\\page1_img7.png",
+      "ext_images\\page1_img8.png"
+    ]
+  },
+  {
+    "question": "What is the next figure?",
+    "images": "ext_images\\page1_img9.png",
+    "option_images": [
+      "ext_images\\page1_img10.png",
+      "ext_images\\page2_img1.jpeg",
+      "ext_images\\page2_img2.png"
+    ]
+  },
+  {
+    "question": "What is the next figure?",
+    "images": "ext_images\\page2_img3.png",
+    "option_images": [
+      "ext_images\\page2_img4.png",
+      "ext_images\\page2_img5.png",
+      "ext_images\\page2_img6.jpeg"
+    ]
+  },
+  {
+    "question": "What is the next figure?",
+    "images": "ext_images\\page2_img7.png",
+    "option_images": [
+      "ext_images\\page3_img1.jpeg",
+      "ext_images\\page3_img2.png",
+      "ext_images\\page4_img1.jpeg"
+    ]
+  },
+  {
+    "question": "What is the next figure?",
+    "images": "ext_images\\page4_img2.jpeg",
+    "option_images": [
+      "ext_images\\page4_img3.png",
+      "ext_images\\page4_img4.png",
+      "ext_images\\page4_img5.png"
+    ]
+  },
+  {
+    "question": "What is the next figure?",
+    "images": "ext_images\\page5_img1.jpeg",
+    "option_images": [
+      "ext_images\\page5_img2.png",
+      "ext_images\\page5_img3.png",
+      "ext_images\\page5_img4.png"
+    ]
+  },
+  {
+    "question": "What is the next figure?",
+    "images": "ext_images\\page5_img5.png",
+    "option_images": [
+      "ext_images\\page6_img1.jpeg",
+      "ext_images\\page6_img2.png",
+      "ext_images\\page6_img3.png"
+    ]
+  },
+  {
+    "question": "What is the next figure?",
+    "images": "ext_images\\page7_img1.jpeg",
+    "option_images": [
+      "ext_images\\page8_img1.jpeg",
+      "ext_images\\page8_img2.jpeg",
+      "ext_images\\page8_img3.jpeg"
+    ]
+  },
+  {
+    "question": "What is the next figure?",
+    "images": "ext_images\\page8_img4.jpeg",
+    "option_images": [
+      "ext_images\\page8_img5.jpeg",
+      "ext_images\\page8_img6.png",
+      "ext_images\\page8_img7.png"
+    ]
+  },
+  {
+    "question": "What is the next figure?",
+    "images": "ext_images\\page8_img8.png",
+    "option_images": [
+      "ext_images\\page8_img9.png",
+      "ext_images\\page9_img1.jpeg",
+      "ext_images\\page9_img2.png"
+    ]
+  },
+  {
+    "question": "What is the next figure?",
+    "images": "ext_images\\page9_img3.png",
+    "option_images": [
+      "ext_images\\page9_img4.png",
+      "ext_images\\page9_img5.png",
+      "ext_images\\page9_img6.png"
+    ]
+  },
+  {
+    "question": "What is the next figure?",
+    "images": "ext_images\\page10_img1.jpeg",
+    "option_images": [
+      "ext_images\\page10_img2.png",
+      "ext_images\\page10_img3.png",
+      "ext_images\\page10_img4.png"
+    ]
+  },
+  {
+    "question": "What is the next figure?",
+    "images": "ext_images\\page11_img1.jpeg",
+    "option_images": [
+      "ext_images\\page11_img2.png",
+      "ext_images\\page11_img3.png",
+      "ext_images\\page11_img4.jpeg"
+    ]
+  },
+  {
+    "question": "What is the next figure?",
+    "images": "ext_images\\page12_img1.jpeg",
+    "option_images": [
+      "ext_images\\page12_img2.png",
+      "ext_images\\page13_img1.jpeg",
+      "ext_images\\page13_img2.png"
+    ]
+  }
+]
